@@ -39,3 +39,5 @@ foreach ($userName in $userList) {
         }
     }
 }
+
+$results
